@@ -26,6 +26,7 @@ async function PostText() {
 
       if (!response.ok) {
         errorUnknown.style.display = "block";
+        loading.style.display = "none";
         throw new Error("An error ocurred. Server's console for details.");
       }
 
