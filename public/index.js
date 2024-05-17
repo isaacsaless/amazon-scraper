@@ -1,4 +1,4 @@
-const baseUrl = "https://amazonscraper-api.onrender.com";
+const baseUrl = "https://amazonscraper-api.onrender.com/scrape";
 const input = document.getElementById("input");
 const botao = document.getElementById("submitBtn");
 const errorNoInsert = document.getElementById("NoInsert");
