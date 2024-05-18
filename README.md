@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/devicons/devicon">
+    <a href="https://amazonscraper-api.onrender.com/">
         <img src="https://raw.githubusercontent.com/isaacsaless/amazon-scraper/main/public/img/icon.png" alt="Amazon Scraper Logo" height="140" />
     </a>
     <h5 align="center">
@@ -8,6 +8,8 @@
     <p align="center">
         &middot;
         <a target="_blank" href="https://amazonscraper-api.onrender.com/">Live WebSite</a>
+        &middot;
+        <a target="_blank" href="https://github.com/isaacsaless/amazon-scraper/blob/main/pt-README.md">README em português</a>
         &middot;
     </p>
 </div>
