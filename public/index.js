@@ -14,6 +14,7 @@ async function PostText() {
   } else {
     try {
       errorNoInsert.style.display = "none";
+      errorUnknown.style.display = "none";
       loading.style.display = "flex";
       const response = await fetch(baseUrl, {
         method: "POST",
