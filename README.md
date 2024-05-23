@@ -14,6 +14,9 @@
     </p>
 </div>
 
+> [!WARNING]  
+> **Warning:** The live website is hosted on Render, so it will be down most of the time. I strongly advise you to fork this repository and use it locally for a better experience.
+
 ## About
 <img src="https://i.imgur.com/fT5qspT.png"/>
 <p>
