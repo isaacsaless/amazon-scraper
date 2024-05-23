@@ -14,6 +14,9 @@
     </p>
 </div>
 
+> [!WARNING]  
+> **Atenção:** O site está hospedado no Render, então ficará fora do ar na maior parte do tempo. É recomendo que você faça um fork deste repositório e o utilize localmente para uma melhor experiência.
+
 ## Sobre
 <img src="https://i.imgur.com/fT5qspT.png"/>
 <p>
